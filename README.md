@@ -50,4 +50,4 @@ User data stays completely local on the user's device.
 ## Contact
 If you have questions or concerns about this privacy policy, please contact me through email:
 
-ttungfreddie@gmail.com
+[ttungfreddie@gmail.com](mailto:ttungfreddie@gmail.com)

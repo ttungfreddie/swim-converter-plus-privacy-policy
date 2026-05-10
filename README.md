@@ -2,7 +2,7 @@ Swim Converter+ is a tool that allows you to convert swimming times between SCY/
 
 Last updated: May 2026
 
-Extension Version: 1.0
+Extension Version: 1.0.0
 
 This privacy policy applies to the Swim Converter+ Chrome extension.
 

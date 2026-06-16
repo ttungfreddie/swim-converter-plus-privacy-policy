@@ -28,6 +28,9 @@ All data is stored locally on the user’s device using Chrome’s local storage
 ## Data Sharing
 Swim Converter+ does not share any data with external servers, services, or third parties.
 
+## Data Access  
+Swim Converter+ only accesses information that is visible on the active webpage when the user initiates a conversion. This includes swim event names and times displayed on the page. This information is used solely to calculate and display converted times and is never stored, transmitted, or shared.
+
 ## Permissions
 NewsifAI requests only the minimum permissions required to operate, including:
 
@@ -35,11 +38,19 @@ The extension may request the following permissions:
 
 - Storage: Used to save conversion history locally on the device
 - Side Panel: Used to display the extension interface
+- Scripting: Used to display converted times on your current tab.
+- Active Tab: Used to access and convert times on your current tab.
 
 These permissions are used strictly for functionality and not for tracking or collecting personal data.
 
 ## Data Deletion
 Users can delete stored data at any time using the “Clear History” button inside the extension. Uninstalling the extension also removes all locally stored data.
+
+## No Tracking or Analytics  
+Swim Converter+ does not use analytics tools, tracking scripts, cookies, or any form of user behavior monitoring. The extension does not track browsing activity or collect usage statistics.
+
+## Third‑Party Services  
+Swim Converter+ does not use or integrate with any third‑party services, APIs, or external servers. All functionality runs entirely within the user’s browser.
 
 ## Changes to This Policy
 This privacy policy may be updated in future versions of the extension. Any updates will be reflected in this document.

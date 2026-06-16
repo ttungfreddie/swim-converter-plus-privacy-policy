@@ -29,7 +29,7 @@ All data is stored locally on the user’s device using Chrome’s local storage
 Swim Converter+ does not share any data with external servers, services, or third parties.
 
 ## Data Access  
-Swim Converter+ only accesses information that is visible on the active webpage when the user initiates a conversion. This includes swim event names and times displayed on the page. This information is used solely to calculate and display converted times and is never stored, transmitted, or shared.
+Swim Converter+ only accesses information that is visible on the active webpage when the user initiates a conversion. This includes swim event names and times displayed on the page. This information is used solely to calculate and display converted times and is never stored, transmitted, or shared. Injected scripts only read swim times displayed on the page in order to calculate conversions. No page content is collected, transmitted, or stored.
 
 ## Permissions
 NewsifAI requests only the minimum permissions required to operate, including:
